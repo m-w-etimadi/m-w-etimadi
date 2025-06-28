@@ -6,14 +6,23 @@
 
 - <b>Home lab (Networking)</b>
   - [Providing internet access to my physical lab - Configuring Cisco Router, Switches, and Wi-Fi Router for Internet Connectivity ](https://github.com/m-w-etimadi/HomeLabNetworking/tree/main)
+<br />
+<br />
+<br />
+
 
 <h2>📜 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Cisco SD-WAN Solution Certificates:</b>
+  - 📜 [The SD-WAN Mastery Collection - Getting Started (P-SDW-START)](https://i.imgur.com/Zn8kiVj.jpeg)
+  - 📜 [The SD-WAN Mastery Collection - Deploying the Data Plane (P-SDW-DATPLN)](https://i.imgur.com/XQrhWom.jpeg)
+  - 📜 [The SD-WAN Mastery Collection - Developing the Overlay Topology (P-SDW-OVRLAY)](https://i.imgur.com/b4SDlBj.jpeg)
+
+
+<br />
+<br />
+<br />
+
 
 <h2> 🤳 Connect with me:</h2>
 
