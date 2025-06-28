@@ -5,7 +5,7 @@
 <h2>👨‍💻 Networking/Cybersecurity Projects:</h2>
 
 - <b>Home lab (Networking)</b>
-  - [Providing internet access to my physical lab - Connecting my physical lab to the home WiFi router ](https://github.com/m-w-etimadi/HomeLabNetworking/tree/main)
+  - [Providing internet access to my physical lab - Configuring Cisco Router, Switches, and Wi-Fi Router for Internet Connectivity ](https://github.com/m-w-etimadi/HomeLabNetworking/tree/main)
 
 <h2>📜 Certifications</h2>
 
