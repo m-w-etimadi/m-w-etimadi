@@ -2,6 +2,9 @@
   <a href="#"><font color="#3498db"><mark><b>Network Engineer</b></mark></font></a>, 
   <a href="#"><font color="#e74c3c"><mark><b>Cybersecurity Professional</b></mark></font></a>
 </h1>
+<br />
+
+
 <h2>👨‍💻 Networking/Cybersecurity Projects:</h2>
 
 - <b>Home lab (Networking)</b>
